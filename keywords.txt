@@ -1,0 +1,2 @@
+SensorUmidade	KEYWORD1
+medir	KEYWORD2
